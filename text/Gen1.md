@@ -1,4 +1,4 @@
-# Genesis 25
+# Genesis 1
 
 |Verse|Latin|Hebrew|English|Hebrew(Bible)|
 |-----|-----|------|-------|-------------|
